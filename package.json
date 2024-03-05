@@ -1,0 +1,9 @@
+{
+  "name": "@xuanvufsv/simple-social-web-tea-test",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@xuanvufsv",
+  "repository": "https://github.com/XuanVuFsv/simple-social-web-tea-test.git",
+  "license": "ISC"
+}
